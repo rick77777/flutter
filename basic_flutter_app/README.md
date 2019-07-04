@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ToDo :
-app-debug.apk in debug
+app-debug.apk in debug, 
 app.apk in app
