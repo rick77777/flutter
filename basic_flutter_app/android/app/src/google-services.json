@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "572274145484",
+    "firebase_url": "https://smartcity-7fa91.firebaseio.com",
+    "project_id": "smartcity-7fa91",
+    "storage_bucket": "smartcity-7fa91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572274145484:android:072b48f3c7cbda3e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572274145484-3spajpthgmkiui2me5u48il7p55ttfh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app",
+            "certificate_hash": "7b6960b4ed9446525a0f110c8755d75f9c1dcac5"
+          }
+        },
+        {
+          "client_id": "572274145484-upvk88utdjhpe42i3h7ild58tosn5is7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAszxDxXstsAe0U6rqOkvrBxN1o8AQ_cKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572274145484-upvk88utdjhpe42i3h7ild58tosn5is7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
